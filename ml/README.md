@@ -16,7 +16,10 @@
 |5|2021.05.26|Kaggle 실습 - 분류|[link](https://youtu.be/mjeqsj1wxu8)|
 |6|2021.06.02|회귀 문제 다루기|[link](https://youtu.be/p9enuSSdwQE)|
 |7|2021.06.30|Kaggle 실습 - 회귀|[link](https://youtu.be/BCr7dWOVyhc)|
-
+|8|2021.07.07|차원 축소|아직|
+|9|2021.07.14|군집화|아직|
+|10|2021.07.21|Kaggle 실습 - 군집화|아직|
+|End|2021.07.28|뒷풀이|아직|
 
 ## 외부 링크
 - [notion](https://www.notion.so/ML-DA-Team-69bf7cef5aa74ed1b2ce64ca2f37ebf2)
