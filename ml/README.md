@@ -1,5 +1,8 @@
 # SAI-2021-Team-A ml team
 
+![dinosaur](https://user-images.githubusercontent.com/44926072/128404653-feec1881-c806-4411-bccd-2ddd479b8184.gif)
+
+
 - 2021년 1학기(+여름방학 절반)동안 진행된 ML팀 **머신러닝 기초** 스터디 기록
 - 매 주 수요일 22시 40분 시작 (평균적으로 90분 ~ 2시간 소요), *tmi-미팅 시간은 [when2meet](https://www.when2meet.com/) 사이트를 활용하여 결정*
 - 구성원 모두 재학생인 관계로 시험기간 전 주와 시험 주는 휴게함
