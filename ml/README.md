@@ -35,3 +35,4 @@
 ## :paperclip: 외부 링크
 - [스터디공간 (notion)](https://www.notion.so/ML-DA-Team-69bf7cef5aa74ed1b2ce64ca2f37ebf2) : 저희가 과제 제출을 하고 자료를 모으는 데 사용한 notion 페이지입니다!
 - [커리큘럼 (notion)](https://www.notion.so/A-ML-0db606d6674647f9bbe909c1c673b663) : 10주치 커리큘럼과 진행 방식을 소개하는 페이지입니다!
+- [스터디 리뷰 및 피드백](/feedback.md) : 팀장으로서 커리큘럼 기획과 진행을 하며 느꼈던 점들을 정리했습니다. 다음 기수 SAI 스터디 기획에 도움이 되었으면 좋겠네요!
